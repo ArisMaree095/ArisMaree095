@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArisMaree095 
-- 👀 I’m interested in videogame design, UI/UX design, data science, art in general!
-- 🌱 I’m currently learning C++, C#, Python, and Javascript. 
-- 📫 How to reach me: e-mail: arianamarievp@gmail.com
+- 👀 I’m interested in tech art, graphics programming, and Web/UX design!
+- 🌱 I’m currently learning C#, Bluescripts for UE5 and Technical Art.
+- 📫 How to reach me: arianamarievp@gmail.com and arismaree on Discord.
 - ⚡ Catchphrase... kind of?: Don't mind me, I'm just a nerd!
 
 <!---
