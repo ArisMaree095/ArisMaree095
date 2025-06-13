@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArisMaree095 
-- 👀 I’m interested in tech art, graphics programming, and Web/UX design!
-- 🌱 I’m currently learning C#, Bluescripts for UE5 and Technical Art.
+- 👀 I’m interested in tech art, graphics programming, VR and Web/UX design!
+- 🌱 I’m currently learning C#, Blueprints for UE5 and Unity Shader Graph for Technical Art.
 - 📫 How to reach me: arianamarievp@gmail.com and arismaree on Discord.
 - ⚡ Catchphrase... kind of?: Don't mind me, I'm just a nerd!
 
