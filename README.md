@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArisMaree095 
-- 👀 I’m interested in tech art, graphics programming, VR and Web/UX design!
-- 🌱 I’m currently learning C#, Blueprints for UE5 and Unity Shader Graph for Technical Art.
-- 📫 How to reach me: arianamarievp@gmail.com and arismaree on Discord.
+- 👀 I’m interested in technical art and multi-platform UI/UX design!
+- 🌱 I’m currently learning Harvard's CS50 course and Unity's Shader Graph.
+- 📫 How to reach me: arianavidalonline@gmail.com for professional inquiries, amstudios.dr@gmail.com for game dev inquiries and arismaree on Discord.
 - ⚡ Catchphrase... kind of?: Don't mind me, I'm just a nerd!
 
 <!---
