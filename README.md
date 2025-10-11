@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArisMaree095 
 - 👀 I’m interested in technical art and multi-platform UI/UX design!
-- 🌱 I’m currently learning Harvard's CS50 course and Unity's Shader Graph.
+- 🌱 I’m currently learning Harvard's CS50 course, AWS Cloud Practitioner cert and Graphics Programming with C++.
 - 📫 How to reach me: arianavidalonline@gmail.com for professional inquiries, amstudios.dr@gmail.com for game dev inquiries and arismaree on Discord.
 - ⚡ Catchphrase... kind of?: Don't mind me, I'm just a nerd!
 
