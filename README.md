@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an earthquake emergency simulator made in Unity using Oculus VR technologies.<br>I'm currently learning AWS Cloud Practitioner, C++ and Harvard's CS50x 2025. <br>You can ask me about game development or simulation development, as well as how to craft better user experiences.<br>A fun fact about me is that I love nature! And love replicating her in all its glory using technology as a way to learn more about her. 
+I'm currently working on PREVE: an earthquake emergency simulator made in Unity using Oculus VR technologies.<br>I'm currently learning AWS Cloud Practitioner, C++ and Harvard's CS50x 2025. <br>You can ask me about game development or simulation development, as well as how to craft better user experiences.<br>A fun fact about me is that I love nature! And love replicating her in all its glory using technology as a way to learn more about her. 
 
 
 ## 🌐 Socials:
